@@ -12,7 +12,7 @@ dist/
 build/
 .next/
 out/
-coverage/
+coverage/ 
 
 # Logs
 logs/
