@@ -6,13 +6,13 @@ node_modules/
 .env
 .env.*
 !.env.example
-
+ 
 # Build output
 dist/
 build/
 .next/
 out/
-coverage/
+coverage/ 
 
 # Logs
 logs/
