@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://code-shah-front.vercel.app/api",
+  baseURL: "https://code-shah-backend.vercel.app/api",
   withCredentials: true, // sends httpOnly cookie automatically
   headers: {
     "Content-Type": "application/json",

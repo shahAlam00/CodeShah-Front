@@ -8,7 +8,7 @@ export const DashboardLayout = () => {
 
   return (
     <div className="min-h-screen bg-[#f8fafc] text-slate-800 flex">
-      {/* Sidebar */}
+      {/* Sidebar */} 
       <DashboardSidebar
         isCollapsed={isSidebarCollapsed}
         onToggle={() => setIsSidebarCollapsed(!isSidebarCollapsed)}
