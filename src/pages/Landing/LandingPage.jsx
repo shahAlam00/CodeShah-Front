@@ -97,7 +97,7 @@ export const LandingPage = () => {
       content: "The problem set quality and Monaco editor execution speed blow traditional platforms out of the water. Plus the streak heatmap keeps me relentlessly consistent."
     }
   ];
-
+ 
   return (
     <div className="space-y-24">
       {/* 1. HERO SECTION */}
