@@ -18,9 +18,9 @@ export const PublicLayout = () => {
             {/* Brand Column */}
             <div className="col-span-2 space-y-4">
               <Link to="/" className="flex items-center gap-2.5">
-                <img src="/Logo.png" alt="CodeFront" className="w-8 h-8 rounded-xl object-contain flex-shrink-0" />
+                <img src="/Logo.png" alt="CodeShah" className="w-8 h-8 rounded-xl object-contain flex-shrink-0" />
                 <span className="text-lg font-black tracking-tight text-slate-900">
-                  Code<span className="text-brand-600">Front</span>
+                  Code<span className="text-brand-600">Shah</span>
                 </span>
               </Link>
               <p className="text-xs text-slate-500 max-w-sm leading-relaxed">
@@ -71,7 +71,7 @@ export const PublicLayout = () => {
             <div className="space-y-3">
               <p className="text-xs font-bold text-slate-900 uppercase tracking-wider">Company</p>
               <ul className="space-y-2 text-xs text-slate-500 font-medium">
-                <li><a href="#" className="hover:text-brand-600 transition-colors">About CodeFront</a></li>
+                <li><a href="#" className="hover:text-brand-600 transition-colors">About CodeShah</a></li>
                 <li><a href="#" className="hover:text-brand-600 transition-colors">Careers (Hiring!)</a></li>
                 <li><a href="#" className="hover:text-brand-600 transition-colors">Privacy Policy</a></li>
                 <li><a href="#" className="hover:text-brand-600 transition-colors">Terms of Service</a></li>
@@ -81,7 +81,7 @@ export const PublicLayout = () => {
           </div>
 
           <div className="border-t border-slate-100 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-400 gap-4">
-            <p>© {new Date().getFullYear()} CodeFront Inc. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} CodeShah Inc. All rights reserved.</p>
             <p className="flex items-center gap-1">
               Engineered with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" /> for developers worldwide.
             </p>
