@@ -82,7 +82,7 @@ export const LandingPage = () => {
       name: "Devon Edwards",
       role: "Software Engineer at Google",
       avatar: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=120&auto=format&fit=crop&q=80",
-      content: "CodeFront's interactive visualizer was the single tool that finally made complex graph BFS/DFS and DP state transitions click for me. Cleared my L4 interview in 4 weeks."
+      content: "CodeShah's interactive visualizer was the single tool that finally made complex graph BFS/DFS and DP state transitions click for me. Cleared my L4 interview in 4 weeks."
     },
     {
       name: "Sonia Morales",
@@ -187,7 +187,7 @@ export const LandingPage = () => {
                     <span className="w-3 h-3 rounded-full bg-rose-500/80" />
                     <span className="w-3 h-3 rounded-full bg-amber-500/80" />
                     <span className="w-3 h-3 rounded-full bg-emerald-500/80" />
-                    <span className="ml-3 text-xs font-mono text-slate-400">two-sum.js — CodeFront Studio</span>
+                    <span className="ml-3 text-xs font-mono text-slate-400">two-sum.js — CodeShah Studio</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-emerald-950 text-emerald-400 border border-emerald-800">
